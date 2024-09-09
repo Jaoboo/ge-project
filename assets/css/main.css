@@ -109,6 +109,16 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+		@font-face {
+			font-family: 'Th Mali Grade 6';
+			src: url('fonts/th_mali_grade6.woff2') format('woff2'),
+				 url('fonts/th_mali_grade6.woff') format('woff');
+		}
+		
+		:lang(th) {
+			font-family: 'Th Mali Grade 6', sans-serif;
+		}
+
 /* Type */
 
 	html {
