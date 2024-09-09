@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;500&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
+#main {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+}
 h2.major {
     font-family: "Source Sans Pro", sans-serif;
 }
