@@ -300,24 +300,6 @@ input, select, textarea {
 		text-align: right;
 	}
 
-	/* ฟอนต์สำหรับภาษาไทย */
-	@font-face {
-    	font-family: 'Th Mali Grade 6';
-    	src: url('fonts/th_mali_grade6.woff2') format('woff2'),
-         	 url('fonts/th_mali_grade6.woff') format('woff');
-	}
-
-	/* ฟอนต์หลักสำหรับภาษาอังกฤษ */
-		body {
-    		font-family: 'Arial', sans-serif; /* ใช้ฟอนต์ที่คุณต้องการสำหรับภาษาอังกฤษ */
-		}
-
-	/* ใช้ฟอนต์สำหรับภาษาไทย */
-		.th-font {
-    		font-family: 'Th Mali Grade 6', sans-serif;
-		}
-
-
 /* Form */
 
 	form {
