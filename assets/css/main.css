@@ -163,9 +163,8 @@ input, select, textarea {
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
-		line-height: 1.65;
-		line-height: 1.5; /* เพิ่มระยะห่างระหว่างบรรทัด */
-    	letter-spacing: 0.5px; /* เพิ่มระยะห่างระหว่างตัวอักษร */
+		line-height: 1.6; 
+    	letter-spacing: 0; 
 	}
 
 	a {
