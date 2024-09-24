@@ -254,16 +254,16 @@ input, select, textarea {
 		}
 
 		h2 {
-			font-size: 20;
+			font-size: 18;
 			line-height: 1.5;
 		}
 
 		h3.ibm-font {
-			font-size: 18px;
+			font-size: 16px;
 		}
 
 		#main {
-			font-size: 16px;
+			font-size: 14px;
 		}
 
 	}
