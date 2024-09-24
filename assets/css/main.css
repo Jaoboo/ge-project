@@ -15,6 +15,10 @@ h3.ibm-font {
     font-family: "IBM Plex Sans Thai", sans-serif;
 	font-weight: 300;
 }
+.text-container {
+    text-align: left; 
+    direction: rtl; 
+}
 
 /*
 	Dimension by HTML5 UP
@@ -160,6 +164,8 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
+		line-height: 1.5; /* เพิ่มระยะห่างระหว่างบรรทัด */
+    	letter-spacing: 0.5px; /* เพิ่มระยะห่างระหว่างตัวอักษร */
 	}
 
 	a {
