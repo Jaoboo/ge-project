@@ -19,16 +19,6 @@ h3.ibm-font {
     text-align: left; 
     direction: rtl; 
 }
-
-.login {
-	position: fixed; /* ใช้ fixed เพื่อให้ล็อกอินอยู่ที่มุมขวาบน */
-	top: 20px; /* ระยะห่างจากขอบบน */
-	right: 20px; /* ระยะห่างจากขอบขวา */
-	background: rgba(255, 255, 255, 0);
-	padding: 10px;
-	border-radius: 5px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
