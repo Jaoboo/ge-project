@@ -19,6 +19,23 @@ h3.ibm-font {
     text-align: left; 
     direction: rtl; 
 }
+.nav-button {
+	position: fixed; /* ทำให้ปุ่มอยู่ที่มุมขวาบน */
+    top: 20px; /* ระยะห่างจากขอบบน */
+    right: 20px; /* ระยะห่างจากขอบขวา */
+}
+.nav-button .btn{
+	width: 130px;
+	height: 40px;
+	font-weight: 500;
+	border-collapse: collapse;
+	background-color: rgba(0, 0, 0, 0);
+	cursor: pointer;
+	transition: .3s ease;
+}
+.btn:hover{
+	background: rgba(255, 255, 255, 0.059)
+}
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
